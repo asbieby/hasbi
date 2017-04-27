@@ -1,0 +1,161 @@
+/* ==========================================================================
+   Blue Color styles
+   ========================================================================== */
+
+.navbar-nav > li > a.current {
+    color: #00BFA5;
+}
+.top-nav-collapse .navbar-nav > li > a.current {
+    color: #00BFA5;
+}
+.top-nav-collapse .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover, .top-nav-collapse .navbar-nav > li > a.current:focus {
+    color: #00BFA5;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #00BFA5;
+}
+
+.ban1_txt h3 {
+  color: #00BFA5;
+}
+
+
+.about-header h2 small {
+    color: #00BFA5 !important;
+}
+.about-ssection .icon-fea::before {
+    color: #00BFA5;
+}
+.feat-learn:hover {
+    color: #00BFA5;
+}
+
+.hvr-shutter-in-horizontal::before {
+    border-top: 1px solid #00BFA5;
+    border-bottom: 1px solid #00BFA5;
+}
+header .hvr-shutter-in-horizontal::before {
+    border-top: 1px solid rgba(255, 255, 255, 0.73);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.73);
+}
+
+.text-riht small {
+    color: #00BFA5;
+}
+
+
+.achieve-header small {
+    color: #00BFA5;
+}
+.achieve-section .col-md-3 i {
+    color: #00BFA5;
+}
+
+.base-header small {
+    color: #00BFA5;
+}
+.project-filter ul li.active {
+    color: #00BFA5;
+    border-bottom: 2px solid #00BFA5;
+}
+.project-filter ul li:hover {
+  color: #00BFA5;
+}
+.project_menu .hvr-underline-from-center::before {
+    background: #00BFA5;
+}
+.mask2 p {
+    color: #00BFA5;
+}
+.mask2 i {
+    color: #00BFA5;
+}
+
+
+section.impres h3 {
+    color: #00BFA5;
+}
+
+
+.base-header small {
+    color: #00BFA5;
+}
+.member:hover .info {
+    background: #00BFA5;
+}
+
+.infosection .infobig span {
+    color: #00BFA5;
+}
+
+
+.testimonial-content h2 {
+    color: #00BFA5;
+}
+ 
+.testimonial-box span {
+    color: #00BFA5;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page.active span {
+    background: #00BFA5;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page:hover span {
+    background: #00BFA5;
+}
+
+
+
+.client-box:hover {
+    border-color: #00BFA5;
+}
+
+
+
+.achieve-header small {
+    color: #00BFA5;
+}
+.btn-chos:hover, .btn-chos:active, .btn-chos:focus {
+    border-top: 1px solid #00BFA5 !important;
+    border-bottom: 1px solid #00BFA5 !important;
+}
+
+
+.contact .form-group input, .contact .form-group textarea {
+    border-color: #00BFA5;
+}
+.contact .form-control:focus {
+    border-color: #00BFA5;
+}
+.cont-details i {
+    color: #00BFA5;
+    font-size: 15px;
+    padding-right: 15px;
+}
+.icon {
+    color: #00BFA5;
+}
+.social_footer a {
+    color: #00BFA5;
+}
+.text-primary {
+    color: #00BFA5;
+}
+.footer-links a {
+    color: #00BFA5;
+}
+
+
+.blog-header h3 {
+    color: #00BFA5;
+	border-top: 3px solid #00BFA5;
+    border-bottom: 3px solid #00BFA5;
+}
+.blog-post-list .post-meta i {
+    color: #00BFA5;
+}
+.blog-area .pager li > a {
+    color: #00BFA5;
+}
+.blog-post-list .post-meta span {
+    color: #00BFA5;
+}

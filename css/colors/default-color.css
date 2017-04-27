@@ -1,0 +1,160 @@
+/* ==========================================================================
+   Blue Color styles
+   ========================================================================== */
+
+.navbar-nav > li > a.current {
+    color: #B89841;
+}
+.top-nav-collapse .navbar-nav > li > a.current {
+    color: #B89841;
+}
+.top-nav-collapse .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover, .top-nav-collapse .navbar-nav > li > a.current:focus {
+    color: #B89841;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #B89841;
+}
+
+.ban1_txt h3 {
+  color: #B89841;
+}
+
+
+.about-header h2 small {
+    color: #B89841;
+}
+.about-ssection .icon-fea::before {
+    color: #B89841;
+}
+.feat-learn:hover {
+    color: #B89841;
+}
+
+.hvr-shutter-in-horizontal::before {
+    border-top: 1px solid #B89841;
+    border-bottom: 1px solid #B89841;
+}
+header .hvr-shutter-in-horizontal::before {
+    border-top: 1px solid rgba(255, 255, 255, 0.73);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.73);
+}
+.text-riht small {
+    color: #B89841;
+}
+
+.achieve-header small {
+    color: #B89841;
+}
+.achieve-section .col-md-3 i {
+    color: #B89841;
+}
+
+.base-header small {
+    color: #B89841;
+}
+.project-filter ul li.active {
+    color: #B89841;
+    border-bottom: 2px solid #B89841;
+}
+.project-filter ul li:hover {
+  color: #B89841;
+}
+.project_menu .hvr-underline-from-center::before {
+    background: #B89841;
+}
+.mask2 p {
+    color: #B89841;
+}
+.mask2 i {
+    color: #B89841;
+}
+
+
+section.impres h3 {
+    color: #B89841;
+}
+
+
+.base-header small {
+    color: #B89841;
+}
+.member:hover .info {
+    background: #B89841;
+}
+
+.infosection .infobig span {
+    color: #B89841;
+}
+
+
+.testimonial-content h2 {
+    color: #B89841;
+}
+
+.testimonial-box span {
+    color: #B89841;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page.active span {
+    background: #B89841;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page:hover span {
+    background: #B89841;
+}
+
+
+
+.client-box:hover {
+    border-color: #B89841;
+}
+
+
+
+.achieve-header small {
+    color: #B89841;
+}
+.btn-chos:hover, .btn-chos:active, .btn-chos:focus {
+    border-top: 1px solid #B89841 !important;
+    border-bottom: 1px solid #B89841 !important;
+}
+
+
+.contact .form-group input, .contact .form-group textarea {
+    border-color: #B89841;
+}
+.contact .form-control:focus {
+    border-color: #B89841;
+}
+.cont-details i {
+    color: #B89841;
+    font-size: 15px;
+    padding-right: 15px;
+}
+.icon {
+    color: #B89841;
+}
+.social_footer a {
+    color: #B89841;
+}
+.text-primary {
+    color: #B89841;
+}
+.footer-links a {
+    color: #B89841;
+}
+
+
+
+.blog-header h3 {
+    color: #B89841;
+	border-top: 3px solid #B89841;
+    border-bottom: 3px solid #B89841;
+}
+.blog-post-list .post-meta i {
+    color: #B89841;
+}
+.blog-area .pager li > a {
+    color: #B89841;
+}
+.blog-post-list .post-meta span {
+    color: #B89841;
+}

@@ -1,0 +1,163 @@
+/* ==========================================================================
+   Blue Color styles
+   ========================================================================== */
+
+.navbar-nav > li > a.current {
+    color: #FFC852;
+}
+.top-nav-collapse .navbar-nav > li > a.current {
+    color: #FFC852;
+}
+.top-nav-collapse .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:hover, .top-nav-collapse .navbar-nav > li > a.current:focus {
+    color: #FFC852;
+}
+.navbar-nav > li > a:hover, .navbar-nav > li > a:focus {
+    color: #FFC852;
+}
+
+.ban1_txt h3 {
+  color: #FFC852;
+}
+
+
+.about-header h2 small {
+    color: #FFC852 !important;
+}
+.about-ssection .icon-fea::before {
+    color: #FFC852;
+}
+.feat-learn:hover {
+    color: #FFC852;
+}
+
+.hvr-shutter-in-horizontal::before {
+    border-top: 1px solid #FFC852;
+    border-bottom: 1px solid #FFC852;
+}
+header .hvr-shutter-in-horizontal::before {
+    border-top: 1px solid rgba(255, 255, 255, 0.73);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.73);
+}
+
+.text-riht small {
+    color: #FFC852;
+}
+
+
+.achieve-header small {
+    color: #FFC852;
+}
+.achieve-section .col-md-3 i {
+    color: #FFC852;
+}
+
+.base-header small {
+    color: #FFC852;
+}
+.project-filter ul li.active {
+    color: #FFC852;
+    border-bottom: 2px solid #FFC852;
+}
+.project-filter ul li:hover {
+  color: #FFC852;
+}
+.project_menu .hvr-underline-from-center::before {
+    background: #FFC852;
+}
+.mask2 p {
+    color: #FFC852;
+}
+.mask2 i {
+    color: #FFC852;
+}
+
+
+section.impres h3 {
+    color: #FFC852;
+}
+
+
+.base-header small {
+    color: #FFC852;
+}
+.member:hover .info {
+    background: #FFC852;
+}
+
+.infosection .infobig span {
+    color: #FFC852;
+}
+
+
+.testimonial-content h2 {
+    color: #FFC852;
+}
+ 
+.testimonial-box span {
+    color: #FFC852;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page.active span {
+    background: #FFC852;
+}
+.testimonial-section .owl-theme .owl-controls .owl-page:hover span {
+    background: #FFC852;
+}
+
+
+
+.client-box:hover {
+    border-color: #FFC852;
+}
+
+
+.project_menu .hvr-underline-from-center.active::before {
+    background:transparent !important;
+}
+.achieve-header small {
+    color: #FFC852;
+}
+.btn-chos:hover, .btn-chos:active, .btn-chos:focus {
+    border-top: 1px solid #FFC852 !important;
+    border-bottom: 1px solid #FFC852 !important;
+}
+
+
+.contact .form-group input, .contact .form-group textarea {
+    border-color: #FFC852;
+}
+.contact .form-control:focus {
+    border-color: #FFC852;
+}
+.cont-details i {
+    color: #FFC852;
+    font-size: 15px;
+    padding-right: 15px;
+}
+.icon {
+    color: #FFC852;
+}
+.social_footer a {
+    color: #FFC852;
+}
+.text-primary {
+    color: #FFC852;
+}
+.footer-links a {
+    color: #FFC852;
+}
+
+
+.blog-header h3 {
+    color: #FFC852;
+	border-top: 3px solid #FFC852;
+    border-bottom: 3px solid #FFC852;
+}
+.blog-post-list .post-meta i {
+    color: #FFC852;
+}
+.blog-area .pager li > a {
+    color: #FFC852;
+}
+.blog-post-list .post-meta span {
+    color: #FFC852;
+}
